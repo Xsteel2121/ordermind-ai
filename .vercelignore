@@ -1,0 +1,12 @@
+.git/
+.next/
+node_modules/
+out/
+.sites-runtime/
+.openai/
+.vercel/
+AGENTS.md
+CLAUDE.md
+VALIDATION.md
+*.tsbuildinfo
+.env*
