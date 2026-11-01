@@ -1,0 +1,3710 @@
+[
+  {
+    "id": "cb001",
+    "name_ru": "Бефстроганов в горшочке",
+    "name_kk": "Бефстроганов в горшочке",
+    "aliases": [
+      "бефстроганов в горшочке"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "350 г",
+    "source_page": 1
+  },
+  {
+    "id": "cb002",
+    "name_ru": "Карак чай",
+    "name_kk": "Карак чай",
+    "aliases": [
+      "карак чай",
+      "карак шай",
+      "чай карак"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb003",
+    "name_ru": "Латте курт",
+    "name_kk": "Латте курт",
+    "aliases": [
+      "латте курт"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb004",
+    "name_ru": "Латте тары",
+    "name_kk": "Латте тары",
+    "aliases": [
+      "латте тары"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb005",
+    "name_ru": "Смузи груша-руккола",
+    "name_kk": "Смузи груша-руккола",
+    "aliases": [
+      "смузи груша-руккола"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb006",
+    "name_ru": "Смузи манго-имбирь",
+    "name_kk": "Смузи манго-имбирь",
+    "aliases": [
+      "смузи манго-имбирь"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb007",
+    "name_ru": "Смузи молочная голубика",
+    "name_kk": "Смузи молочная голубика",
+    "aliases": [
+      "смузи молочная голубика"
+    ],
+    "price": 2950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb008",
+    "name_ru": "Фраппучино тары",
+    "name_kk": "Фраппучино тары",
+    "aliases": [
+      "фраппучино тары"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "new",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb009",
+    "name_ru": "Ice Cappuccino",
+    "name_kk": "Ice Cappuccino",
+    "aliases": [
+      "ice cappuccino",
+      "айс капучино",
+      "айс каппучино",
+      "холодный капучино",
+      "мұзды капучино"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb010",
+    "name_ru": "Ice Coffee",
+    "name_kk": "Ice Coffee",
+    "aliases": [
+      "ice coffee",
+      "айс кофе",
+      "холодный кофе"
+    ],
+    "price": 1500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb011",
+    "name_ru": "Ice Coffee Boom",
+    "name_kk": "Ice Coffee Boom",
+    "aliases": [
+      "ice coffee boom",
+      "айс кофе бум"
+    ],
+    "price": 1900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb012",
+    "name_ru": "Ice latte",
+    "name_kk": "Ice latte",
+    "aliases": [
+      "ice latte",
+      "айс латте",
+      "холодный латте",
+      "мұзды латте"
+    ],
+    "price": 1550,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb013",
+    "name_ru": "Ice matcha boom",
+    "name_kk": "Ice matcha boom",
+    "aliases": [
+      "ice matcha boom",
+      "айс матча бум"
+    ],
+    "price": 1700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb014",
+    "name_ru": "Ice matcha latte",
+    "name_kk": "Ice matcha latte",
+    "aliases": [
+      "ice matcha latte",
+      "айс матча латте"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb015",
+    "name_ru": "Ice Мокко",
+    "name_kk": "Ice Мокко",
+    "aliases": [
+      "ice мокко",
+      "айс мокко"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb016",
+    "name_ru": "Американо Boom",
+    "name_kk": "Американо Boom",
+    "aliases": [
+      "американо boom",
+      "американо",
+      "американо бум",
+      "американо 400 мл",
+      "большой американо",
+      "үлкен американо",
+      "американо 400"
+    ],
+    "price": 1500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb017",
+    "name_ru": "Американо Single",
+    "name_kk": "Американо Single",
+    "aliases": [
+      "американо single",
+      "американо",
+      "американо сингл",
+      "американо 300 мл",
+      "маленький американо",
+      "кіші американо",
+      "американо 300"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb018",
+    "name_ru": "Бамбл кофе",
+    "name_kk": "Бамбл кофе",
+    "aliases": [
+      "бамбл кофе"
+    ],
+    "price": 2350,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb019",
+    "name_ru": "Горячий шоколад",
+    "name_kk": "Горячий шоколад",
+    "aliases": [
+      "горячий шоколад",
+      "ыстық шоколад"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb020",
+    "name_ru": "Капучино Boom",
+    "name_kk": "Капучино Boom",
+    "aliases": [
+      "капучино boom",
+      "капучино",
+      "каппучино",
+      "капучино бум",
+      "капучино 400",
+      "капучино 400 мл",
+      "большой капучино",
+      "үлкен капучино",
+      "капучино большой",
+      "капучино үлкен",
+      "капучино 400",
+      "каппуччино",
+      "каппучино",
+      "капучино"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb021",
+    "name_ru": "Капучино Single",
+    "name_kk": "Капучино Single",
+    "aliases": [
+      "капучино single",
+      "капучино",
+      "каппучино",
+      "капучино сингл",
+      "капучино 300",
+      "капучино 300 мл",
+      "маленький капучино",
+      "кіші капучино",
+      "капучино маленький",
+      "капучино кіші",
+      "капучино 300",
+      "каппуччино",
+      "каппучино",
+      "капучино"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb022",
+    "name_ru": "Капучино карамелла",
+    "name_kk": "Капучино карамелла",
+    "aliases": [
+      "капучино карамелла",
+      "карамельный капучино",
+      "капучино карамель"
+    ],
+    "price": 1850,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb023",
+    "name_ru": "Классический испанский клубничный латте",
+    "name_kk": "Классический испанский клубничный латте",
+    "aliases": [
+      "классический испанский клубничный латте"
+    ],
+    "price": 1950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb024",
+    "name_ru": "Классический испанский сливочный латте",
+    "name_kk": "Классический испанский сливочный латте",
+    "aliases": [
+      "классический испанский сливочный латте"
+    ],
+    "price": 1950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb025",
+    "name_ru": "Классический испанский фисташковый латте",
+    "name_kk": "Классический испанский фисташковый латте",
+    "aliases": [
+      "классический испанский фисташковый латте"
+    ],
+    "price": 1950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb026",
+    "name_ru": "Классический испанский шоколадный латте",
+    "name_kk": "Классический испанский шоколадный латте",
+    "aliases": [
+      "классический испанский шоколадный латте"
+    ],
+    "price": 1950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb027",
+    "name_ru": "Латте классический Boom",
+    "name_kk": "Латте классический Boom",
+    "aliases": [
+      "латте классический boom",
+      "латте",
+      "латте бум",
+      "латте boom",
+      "латте 400 мл",
+      "большой латте",
+      "үлкен латте",
+      "латте 400"
+    ],
+    "price": 1650,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb028",
+    "name_ru": "Латте классический Single",
+    "name_kk": "Латте классический Single",
+    "aliases": [
+      "латте классический single",
+      "латте",
+      "латте сингл",
+      "латте single",
+      "латте 300 мл",
+      "маленький латте",
+      "кіші латте",
+      "латте 300"
+    ],
+    "price": 1500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb029",
+    "name_ru": "Матча латте",
+    "name_kk": "Матча латте",
+    "aliases": [
+      "матча латте"
+    ],
+    "price": 1450,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb030",
+    "name_ru": "Матча с апельсиновым фрешем",
+    "name_kk": "Матча с апельсиновым фрешем",
+    "aliases": [
+      "матча с апельсиновым фрешем"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb031",
+    "name_ru": "Матча с сырной пенкой",
+    "name_kk": "Матча с сырной пенкой",
+    "aliases": [
+      "матча с сырной пенкой"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 1
+  },
+  {
+    "id": "cb032",
+    "name_ru": "Мокко Boom",
+    "name_kk": "Мокко Boom",
+    "aliases": [
+      "мокко boom",
+      "мокко",
+      "мокко бум",
+      "мокко 400 мл"
+    ],
+    "price": 2200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb033",
+    "name_ru": "Мокко Single",
+    "name_kk": "Мокко Single",
+    "aliases": [
+      "мокко single",
+      "мокко",
+      "мокко сингл",
+      "мокко 300 мл"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb034",
+    "name_ru": "Раф кофе",
+    "name_kk": "Раф кофе",
+    "aliases": [
+      "раф кофе",
+      "раф"
+    ],
+    "price": 1850,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb035",
+    "name_ru": "Флет уайт",
+    "name_kk": "Флет уайт",
+    "aliases": [
+      "флет уайт",
+      "флэт уайт",
+      "flat white"
+    ],
+    "price": 1500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "300 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb036",
+    "name_ru": "Фраппучино",
+    "name_kk": "Фраппучино",
+    "aliases": [
+      "фраппучино"
+    ],
+    "price": 2750,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb037",
+    "name_ru": "Фраппучино Банан",
+    "name_kk": "Фраппучино Банан",
+    "aliases": [
+      "фраппучино банан"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb038",
+    "name_ru": "Эспрессо тоник",
+    "name_kk": "Эспрессо тоник",
+    "aliases": [
+      "эспрессо тоник"
+    ],
+    "price": 2200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "coffee",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb039",
+    "name_ru": "Чай апельсиновый с мятой",
+    "name_kk": "Чай апельсиновый с мятой",
+    "aliases": [
+      "чай апельсиновый с мятой",
+      "апельсиновый с мятой чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb040",
+    "name_ru": "Чай апельсиновый с облепихой",
+    "name_kk": "Чай апельсиновый с облепихой",
+    "aliases": [
+      "чай апельсиновый с облепихой",
+      "апельсиновый с облепихой чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb041",
+    "name_ru": "Чай глинтвейн",
+    "name_kk": "Чай глинтвейн",
+    "aliases": [
+      "чай глинтвейн",
+      "глинтвейн чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb042",
+    "name_ru": "Чай грушевый с корицей",
+    "name_kk": "Чай грушевый с корицей",
+    "aliases": [
+      "чай грушевый с корицей",
+      "грушевый с корицей чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb043",
+    "name_ru": "Чай зелёный",
+    "name_kk": "Чай зелёный",
+    "aliases": [
+      "чай зелёный",
+      "зеленый чай",
+      "көк шай",
+      "жасыл шай",
+      "зелёный чай"
+    ],
+    "price": 800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb044",
+    "name_ru": "Чай из сосновых шишек",
+    "name_kk": "Чай из сосновых шишек",
+    "aliases": [
+      "чай из сосновых шишек",
+      "из сосновых шишек чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb045",
+    "name_ru": "Чай имбирно-малиновый",
+    "name_kk": "Чай имбирно-малиновый",
+    "aliases": [
+      "чай имбирно-малиновый",
+      "имбирно-малиновый чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb046",
+    "name_ru": "Чай имбирь-каламанси",
+    "name_kk": "Чай имбирь-каламанси",
+    "aliases": [
+      "чай имбирь-каламанси",
+      "имбирь-каламанси чай"
+    ],
+    "price": 1700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb047",
+    "name_ru": "Чай малиновый",
+    "name_kk": "Чай малиновый",
+    "aliases": [
+      "чай малиновый",
+      "малиновый чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb048",
+    "name_ru": "Чай марокканский",
+    "name_kk": "Чай марокканский",
+    "aliases": [
+      "чай марокканский",
+      "марокканский чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb049",
+    "name_ru": "Чай масала",
+    "name_kk": "Чай масала",
+    "aliases": [
+      "чай масала",
+      "масала чай",
+      "масала шай",
+      "масала чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb050",
+    "name_ru": "Чай облепиховый с грейпфрутом",
+    "name_kk": "Чай облепиховый с грейпфрутом",
+    "aliases": [
+      "чай облепиховый с грейпфрутом",
+      "облепиховый с грейпфрутом чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb051",
+    "name_ru": "Чай по-казахски",
+    "name_kk": "Чай по-казахски",
+    "aliases": [
+      "чай по-казахски",
+      "қазақша шай",
+      "казахский чай",
+      "по казахски чай",
+      "по-казахски чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb052",
+    "name_ru": "Чай с клубникой и мятой",
+    "name_kk": "Чай с клубникой и мятой",
+    "aliases": [
+      "чай с клубникой и мятой",
+      "с клубникой и мятой чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb053",
+    "name_ru": "Чай с клубникой и чабрецом",
+    "name_kk": "Чай с клубникой и чабрецом",
+    "aliases": [
+      "чай с клубникой и чабрецом",
+      "с клубникой и чабрецом чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb054",
+    "name_ru": "Чай тары",
+    "name_kk": "Чай тары",
+    "aliases": [
+      "чай тары",
+      "тары шай",
+      "тары чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb055",
+    "name_ru": "Чай ташкентский",
+    "name_kk": "Чай ташкентский",
+    "aliases": [
+      "чай ташкентский",
+      "ташкентский чай",
+      "ташкент шай",
+      "ташкентский чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb056",
+    "name_ru": "Чай чёрный",
+    "name_kk": "Чай чёрный",
+    "aliases": [
+      "чай чёрный",
+      "черный чай",
+      "қара шай",
+      "чёрный чай"
+    ],
+    "price": 800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb057",
+    "name_ru": "Чай ягодный",
+    "name_kk": "Чай ягодный",
+    "aliases": [
+      "чай ягодный",
+      "ягодный чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb058",
+    "name_ru": "Эко чай",
+    "name_kk": "Эко чай",
+    "aliases": [
+      "эко чай"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "tea",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb059",
+    "name_ru": "Лимонад клубничный с лаймом и мятой",
+    "name_kk": "Лимонад клубничный с лаймом и мятой",
+    "aliases": [
+      "лимонад клубничный с лаймом и мятой"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb060",
+    "name_ru": "Лимонад манго-клубника",
+    "name_kk": "Лимонад манго-клубника",
+    "aliases": [
+      "лимонад манго-клубника"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb061",
+    "name_ru": "Лимонад манго-маракуйя",
+    "name_kk": "Лимонад манго-маракуйя",
+    "aliases": [
+      "лимонад манго-маракуйя"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb062",
+    "name_ru": "Лимонад мандарин-манго",
+    "name_kk": "Лимонад мандарин-манго",
+    "aliases": [
+      "лимонад мандарин-манго"
+    ],
+    "price": 1950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb063",
+    "name_ru": "Лимонад маракуйя-апельсин",
+    "name_kk": "Лимонад маракуйя-апельсин",
+    "aliases": [
+      "лимонад маракуйя-апельсин"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb064",
+    "name_ru": "Лимонад с мякотью вишня",
+    "name_kk": "Лимонад с мякотью вишня",
+    "aliases": [
+      "лимонад с мякотью вишня"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb065",
+    "name_ru": "Лимонад с мякотью киви",
+    "name_kk": "Лимонад с мякотью киви",
+    "aliases": [
+      "лимонад с мякотью киви"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 2
+  },
+  {
+    "id": "cb066",
+    "name_ru": "Лимонад с мякотью клубника",
+    "name_kk": "Лимонад с мякотью клубника",
+    "aliases": [
+      "лимонад с мякотью клубника"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb067",
+    "name_ru": "Лимонад с мякотью малина",
+    "name_kk": "Лимонад с мякотью малина",
+    "aliases": [
+      "лимонад с мякотью малина"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb068",
+    "name_ru": "Мохито классический",
+    "name_kk": "Мохито классический",
+    "aliases": [
+      "мохито классический"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb069",
+    "name_ru": "Мохито клубничный",
+    "name_kk": "Мохито клубничный",
+    "aliases": [
+      "мохито клубничный"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb070",
+    "name_ru": "Ташкентский Ice tea",
+    "name_kk": "Ташкентский Ice tea",
+    "aliases": [
+      "ташкентский ice tea"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb071",
+    "name_ru": "Фруктово-манговый коктейль с мороженым",
+    "name_kk": "Фруктово-манговый коктейль с мороженым",
+    "aliases": [
+      "фруктово-манговый коктейль с мороженым"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb072",
+    "name_ru": "Фруктово-ягодный коктейль с мороженым",
+    "name_kk": "Фруктово-ягодный коктейль с мороженым",
+    "aliases": [
+      "фруктово-ягодный коктейль с мороженым"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "lemonade",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb073",
+    "name_ru": "Протеиновый смузи",
+    "name_kk": "Протеиновый смузи",
+    "aliases": [
+      "протеиновый смузи"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb074",
+    "name_ru": "Смузи малина-груша",
+    "name_kk": "Смузи малина-груша",
+    "aliases": [
+      "смузи малина-груша"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb075",
+    "name_ru": "Смузи манго-ананас",
+    "name_kk": "Смузи манго-ананас",
+    "aliases": [
+      "смузи манго-ананас"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb076",
+    "name_ru": "Смузи манго-клубника",
+    "name_kk": "Смузи манго-клубника",
+    "aliases": [
+      "смузи манго-клубника"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb077",
+    "name_ru": "Смузи шпинат-сельдерей",
+    "name_kk": "Смузи шпинат-сельдерей",
+    "aliases": [
+      "смузи шпинат-сельдерей"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb078",
+    "name_ru": "Смузи ягодный",
+    "name_kk": "Смузи ягодный",
+    "aliases": [
+      "смузи ягодный"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb079",
+    "name_ru": "Фреш апельсиново-грейпфрутовый",
+    "name_kk": "Фреш апельсиново-грейпфрутовый",
+    "aliases": [
+      "фреш апельсиново-грейпфрутовый"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb080",
+    "name_ru": "Фреш апельсиново-яблочный",
+    "name_kk": "Фреш апельсиново-яблочный",
+    "aliases": [
+      "фреш апельсиново-яблочный"
+    ],
+    "price": 2450,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb081",
+    "name_ru": "Фреш апельсиновый",
+    "name_kk": "Фреш апельсиновый",
+    "aliases": [
+      "фреш апельсиновый"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb082",
+    "name_ru": "Фреш грейпфрутовый",
+    "name_kk": "Фреш грейпфрутовый",
+    "aliases": [
+      "фреш грейпфрутовый"
+    ],
+    "price": 2650,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb083",
+    "name_ru": "Фреш морковно-апельсиновый",
+    "name_kk": "Фреш морковно-апельсиновый",
+    "aliases": [
+      "фреш морковно-апельсиновый"
+    ],
+    "price": 1850,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb084",
+    "name_ru": "Фреш морковно-яблочный",
+    "name_kk": "Фреш морковно-яблочный",
+    "aliases": [
+      "фреш морковно-яблочный"
+    ],
+    "price": 1850,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb085",
+    "name_ru": "Фреш морковный",
+    "name_kk": "Фреш морковный",
+    "aliases": [
+      "фреш морковный"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb086",
+    "name_ru": "Фреш яблочный",
+    "name_kk": "Фреш яблочный",
+    "aliases": [
+      "фреш яблочный"
+    ],
+    "price": 2250,
+    "sizes": [],
+    "modifiers": {},
+    "category": "smoothie",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb087",
+    "name_ru": "Милк-шейк M&Ms",
+    "name_kk": "Милк-шейк M&Ms",
+    "aliases": [
+      "милк-шейк m&ms"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb088",
+    "name_ru": "Милк-шейк Oreo",
+    "name_kk": "Милк-шейк Oreo",
+    "aliases": [
+      "милк-шейк oreo",
+      "милкшейк орео",
+      "орео милкшейк"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb089",
+    "name_ru": "Милк-шейк классический",
+    "name_kk": "Милк-шейк классический",
+    "aliases": [
+      "милк-шейк классический",
+      "молочный коктейль",
+      "милкшейк",
+      "классический милкшейк",
+      "сүт коктейлі"
+    ],
+    "price": 1800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "400 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb090",
+    "name_ru": "Милк-шейк клубничный микс",
+    "name_kk": "Милк-шейк клубничный микс",
+    "aliases": [
+      "милк-шейк клубничный микс"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb091",
+    "name_ru": "Милк-шейк спелый банан",
+    "name_kk": "Милк-шейк спелый банан",
+    "aliases": [
+      "милк-шейк спелый банан"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb092",
+    "name_ru": "Милк-шейк шоколадный батончик",
+    "name_kk": "Милк-шейк шоколадный батончик",
+    "aliases": [
+      "милк-шейк шоколадный батончик"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "milkshake",
+    "serving": "300 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb093",
+    "name_ru": "Бабл ти Орео",
+    "name_kk": "Бабл ти Орео",
+    "aliases": [
+      "бабл ти орео",
+      "баблти орео",
+      "bubble tea oreo"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb094",
+    "name_ru": "Бабл ти манго маракуйя",
+    "name_kk": "Бабл ти манго маракуйя",
+    "aliases": [
+      "бабл ти манго маракуйя"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb095",
+    "name_ru": "Бабл ти с клубничным соусом и кофе",
+    "name_kk": "Бабл ти с клубничным соусом и кофе",
+    "aliases": [
+      "бабл ти с клубничным соусом и кофе"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb096",
+    "name_ru": "Бабл ти с фисташковым соусом и кофе",
+    "name_kk": "Бабл ти с фисташковым соусом и кофе",
+    "aliases": [
+      "бабл ти с фисташковым соусом и кофе"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb097",
+    "name_ru": "Бабл ти фраппучино",
+    "name_kk": "Бабл ти фраппучино",
+    "aliases": [
+      "бабл ти фраппучино"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb098",
+    "name_ru": "Бабл ти ягодный",
+    "name_kk": "Бабл ти ягодный",
+    "aliases": [
+      "бабл ти ягодный"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bubble",
+    "serving": "375 мл",
+    "source_page": 3
+  },
+  {
+    "id": "cb099",
+    "name_ru": "Авокадо-тост",
+    "name_kk": "Авокадо-тост",
+    "aliases": [
+      "авокадо-тост"
+    ],
+    "price": 4400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb100",
+    "name_ru": "Английский завтрак",
+    "name_kk": "Английский завтрак",
+    "aliases": [
+      "английский завтрак"
+    ],
+    "price": 2400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "420 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb101",
+    "name_ru": "Венский завтрак",
+    "name_kk": "Венский завтрак",
+    "aliases": [
+      "венский завтрак"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "350 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb102",
+    "name_ru": "Дальневосточный завтрак",
+    "name_kk": "Дальневосточный завтрак",
+    "aliases": [
+      "дальневосточный завтрак"
+    ],
+    "price": 3800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "330 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb103",
+    "name_ru": "Драники с яйцом пашот и слабосолёной сёмгой",
+    "name_kk": "Драники с яйцом пашот и слабосолёной сёмгой",
+    "aliases": [
+      "драники с яйцом пашот и слабосолёной сёмгой"
+    ],
+    "price": 2800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb104",
+    "name_ru": "Завтрак с сыром халуми и авокадо",
+    "name_kk": "Завтрак с сыром халуми и авокадо",
+    "aliases": [
+      "завтрак с сыром халуми и авокадо"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb105",
+    "name_ru": "Завтрак с сыром халуми и копчёным мясом",
+    "name_kk": "Завтрак с сыром халуми и копчёным мясом",
+    "aliases": [
+      "завтрак с сыром халуми и копчёным мясом"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb106",
+    "name_ru": "Завтрак чемпиона",
+    "name_kk": "Завтрак чемпиона",
+    "aliases": [
+      "завтрак чемпиона"
+    ],
+    "price": 3000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb107",
+    "name_ru": "Каша гречневая",
+    "name_kk": "Каша гречневая",
+    "aliases": [
+      "каша гречневая",
+      "гречневая каша",
+      "қарақұмық ботқасы"
+    ],
+    "price": 1100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb108",
+    "name_ru": "Каша овсяная",
+    "name_kk": "Каша овсяная",
+    "aliases": [
+      "каша овсяная",
+      "овсяная каша",
+      "овсянка",
+      "сұлы ботқасы"
+    ],
+    "price": 1100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb109",
+    "name_ru": "Каша рисовая",
+    "name_kk": "Каша рисовая",
+    "aliases": [
+      "каша рисовая",
+      "рисовая каша",
+      "күріш ботқасы"
+    ],
+    "price": 1100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb110",
+    "name_ru": "Круассан с сёмгой",
+    "name_kk": "Круассан с сёмгой",
+    "aliases": [
+      "круассан с сёмгой",
+      "круассан",
+      "круасан",
+      "круассан с семгой",
+      "круассан с лососем",
+      "албырт қосылған круассан",
+      "круассана с семгой",
+      "круассана",
+      "круассанов"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "190 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb111",
+    "name_ru": "Омлет с поджаренным тостом",
+    "name_kk": "Омлет с поджаренным тостом",
+    "aliases": [
+      "омлет с поджаренным тостом"
+    ],
+    "price": 1700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "200 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb112",
+    "name_ru": "Скрембл с лососем",
+    "name_kk": "Скрембл с лососем",
+    "aliases": [
+      "скрембл с лососем"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "260 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb113",
+    "name_ru": "Сырники (3 шт, со сметаной и джемом)",
+    "name_kk": "Сырники (3 шт, со сметаной и джемом)",
+    "aliases": [
+      "сырники (3 шт, со сметаной и джемом)",
+      "сырники",
+      "сырников",
+      "сырники со сметаной",
+      "сырники с джемом",
+      "ірімшік құймақтары"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "180 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb114",
+    "name_ru": "Сытный завтрак",
+    "name_kk": "Сытный завтрак",
+    "aliases": [
+      "сытный завтрак"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "350 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb115",
+    "name_ru": "Турецкий завтрак",
+    "name_kk": "Турецкий завтрак",
+    "aliases": [
+      "турецкий завтрак"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "140 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb116",
+    "name_ru": "Шакшука",
+    "name_kk": "Шакшука",
+    "aliases": [
+      "шакшука"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "290 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb117",
+    "name_ru": "Шотландский завтрак",
+    "name_kk": "Шотландский завтрак",
+    "aliases": [
+      "шотландский завтрак"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "290 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb118",
+    "name_ru": "Яйцо пашот с сыром креметте на хлебе",
+    "name_kk": "Яйцо пашот с сыром креметте на хлебе",
+    "aliases": [
+      "яйцо пашот с сыром креметте на хлебе",
+      "яйцо пашот"
+    ],
+    "price": 3150,
+    "sizes": [],
+    "modifiers": {},
+    "category": "breakfast",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb119",
+    "name_ru": "Домашний салат",
+    "name_kk": "Домашний салат",
+    "aliases": [
+      "домашний салат"
+    ],
+    "price": 2200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "260 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb120",
+    "name_ru": "Куриный салат Будда",
+    "name_kk": "Куриный салат Будда",
+    "aliases": [
+      "куриный салат будда"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "240 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb121",
+    "name_ru": "Салат Греческий",
+    "name_kk": "Салат Греческий",
+    "aliases": [
+      "салат греческий",
+      "греческий салат",
+      "грек салаты"
+    ],
+    "price": 2600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "320 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb122",
+    "name_ru": "Салат с рукколой и креветками",
+    "name_kk": "Салат с рукколой и креветками",
+    "aliases": [
+      "салат с рукколой и креветками"
+    ],
+    "price": 3650,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "230 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb123",
+    "name_ru": "Салат с сыром халуми",
+    "name_kk": "Салат с сыром халуми",
+    "aliases": [
+      "салат с сыром халуми"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb124",
+    "name_ru": "Стейк салат",
+    "name_kk": "Стейк салат",
+    "aliases": [
+      "стейк салат"
+    ],
+    "price": 4800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb125",
+    "name_ru": "Тёплый салат с говядиной и картофелем",
+    "name_kk": "Тёплый салат с говядиной и картофелем",
+    "aliases": [
+      "тёплый салат с говядиной и картофелем"
+    ],
+    "price": 3800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "220 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb126",
+    "name_ru": "Тёплый салат с морепродуктами и апельсином",
+    "name_kk": "Тёплый салат с морепродуктами и апельсином",
+    "aliases": [
+      "тёплый салат с морепродуктами и апельсином"
+    ],
+    "price": 4700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "230 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb127",
+    "name_ru": "Фитнес-салат",
+    "name_kk": "Фитнес-салат",
+    "aliases": [
+      "фитнес-салат"
+    ],
+    "price": 1800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "320 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb128",
+    "name_ru": "Цезарь с цыпленком",
+    "name_kk": "Цезарь с цыпленком",
+    "aliases": [
+      "цезарь с цыпленком",
+      "цезарь",
+      "салат цезарь",
+      "цезарь с курицей",
+      "тауық қосылған цезарь"
+    ],
+    "price": 3450,
+    "sizes": [],
+    "modifiers": {},
+    "category": "salad",
+    "serving": "315 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb129",
+    "name_ru": "Борщ",
+    "name_kk": "Борщ",
+    "aliases": [
+      "борщ"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb130",
+    "name_ru": "Крем-суп из тыквы",
+    "name_kk": "Крем-суп из тыквы",
+    "aliases": [
+      "крем-суп из тыквы",
+      "тыквенный суп",
+      "асқабақ сорпасы"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "250 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb131",
+    "name_ru": "Лапша по-домашнему",
+    "name_kk": "Лапша по-домашнему",
+    "aliases": [
+      "лапша по-домашнему"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb132",
+    "name_ru": "Солянка",
+    "name_kk": "Солянка",
+    "aliases": [
+      "солянка"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "300 г",
+    "source_page": 4
+  },
+  {
+    "id": "cb133",
+    "name_ru": "Суп-крем грибной",
+    "name_kk": "Суп-крем грибной",
+    "aliases": [
+      "суп-крем грибной",
+      "грибной суп",
+      "грибной крем суп"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "250 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb134",
+    "name_ru": "Суп-крем чечевичный",
+    "name_kk": "Суп-крем чечевичный",
+    "aliases": [
+      "суп-крем чечевичный",
+      "чечевичный суп",
+      "жасымық сорпасы"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "soup",
+    "serving": "250 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb135",
+    "name_ru": "Блины с курицей и грибами",
+    "name_kk": "Блины с курицей и грибами",
+    "aliases": [
+      "блины с курицей и грибами"
+    ],
+    "price": 3000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "350 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb136",
+    "name_ru": "Жульен",
+    "name_kk": "Жульен",
+    "aliases": [
+      "жульен"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "250 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb137",
+    "name_ru": "Казан кебаб",
+    "name_kk": "Казан кебаб",
+    "aliases": [
+      "казан кебаб"
+    ],
+    "price": 4000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "400 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb138",
+    "name_ru": "Котлета говяжья с моцареллой",
+    "name_kk": "Котлета говяжья с моцареллой",
+    "aliases": [
+      "котлета говяжья с моцареллой"
+    ],
+    "price": 4000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "310 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb139",
+    "name_ru": "Котлета куриная детская",
+    "name_kk": "Котлета куриная детская",
+    "aliases": [
+      "котлета куриная детская"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "330 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb140",
+    "name_ru": "Котлета куриная с моцареллой",
+    "name_kk": "Котлета куриная с моцареллой",
+    "aliases": [
+      "котлета куриная с моцареллой"
+    ],
+    "price": 3650,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "320 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb141",
+    "name_ru": "Котлета пожарская",
+    "name_kk": "Котлета пожарская",
+    "aliases": [
+      "котлета пожарская"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "250 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb142",
+    "name_ru": "Куриное филе с рисом",
+    "name_kk": "Куриное филе с рисом",
+    "aliases": [
+      "куриное филе с рисом"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "280 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb143",
+    "name_ru": "Манты (5 шт)",
+    "name_kk": "Манты (5 шт)",
+    "aliases": [
+      "манты (5 шт)",
+      "манты",
+      "мәнті"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "300 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb144",
+    "name_ru": "Пельмени жареные",
+    "name_kk": "Пельмени жареные",
+    "aliases": [
+      "пельмени жареные"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "220 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb145",
+    "name_ru": "Телятина с грибами и картофелем",
+    "name_kk": "Телятина с грибами и картофелем",
+    "aliases": [
+      "телятина с грибами и картофелем"
+    ],
+    "price": 3850,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "400 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb146",
+    "name_ru": "Фитнес обед",
+    "name_kk": "Фитнес обед",
+    "aliases": [
+      "фитнес обед"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "main",
+    "serving": "310 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb147",
+    "name_ru": "Равиоли с семгой в сливочном соусе",
+    "name_kk": "Равиоли с семгой в сливочном соусе",
+    "aliases": [
+      "равиоли с семгой в сливочном соусе"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "260 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb148",
+    "name_ru": "Спагетти болоньезе",
+    "name_kk": "Спагетти болоньезе",
+    "aliases": [
+      "спагетти болоньезе",
+      "болоньезе",
+      "паста болоньезе"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "350 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb149",
+    "name_ru": "Спагетти карбонара",
+    "name_kk": "Спагетти карбонара",
+    "aliases": [
+      "спагетти карбонара",
+      "карбонара",
+      "паста карбонара"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "300 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb150",
+    "name_ru": "Фарфалле с курицей и грибами",
+    "name_kk": "Фарфалле с курицей и грибами",
+    "aliases": [
+      "фарфалле с курицей и грибами"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "320 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb151",
+    "name_ru": "Фетучини с курицей и грибами",
+    "name_kk": "Фетучини с курицей и грибами",
+    "aliases": [
+      "фетучини с курицей и грибами"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "320 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb152",
+    "name_ru": "Фетучини с семгой",
+    "name_kk": "Фетучини с семгой",
+    "aliases": [
+      "фетучини с семгой"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pasta",
+    "serving": "300 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb153",
+    "name_ru": "Пицца Di Roma",
+    "name_kk": "Пицца Di Roma",
+    "aliases": [
+      "пицца di roma"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "500 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb154",
+    "name_ru": "Пицца Маргарита (30 см)",
+    "name_kk": "Пицца Маргарита (30 см)",
+    "aliases": [
+      "пицца маргарита (30 см)",
+      "пицца маргарита",
+      "маргарита"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "420 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb155",
+    "name_ru": "Пицца Пепперони",
+    "name_kk": "Пицца Пепперони",
+    "aliases": [
+      "пицца пепперони",
+      "пепперони",
+      "пеперони",
+      "пицца пеперони"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "500 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb156",
+    "name_ru": "Пицца Цезарь",
+    "name_kk": "Пицца Цезарь",
+    "aliases": [
+      "пицца цезарь"
+    ],
+    "price": 4000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "550 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb157",
+    "name_ru": "Пицца Четыре сезона",
+    "name_kk": "Пицца Четыре сезона",
+    "aliases": [
+      "пицца четыре сезона"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "500 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb158",
+    "name_ru": "Пицца Четыре сыра",
+    "name_kk": "Пицца Четыре сыра",
+    "aliases": [
+      "пицца четыре сыра",
+      "четыре сыра",
+      "4 сыра",
+      "төрт ірімшік"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "400 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb159",
+    "name_ru": "Пицца с грибами и сливочным соусом",
+    "name_kk": "Пицца с грибами и сливочным соусом",
+    "aliases": [
+      "пицца с грибами и сливочным соусом"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "pizza",
+    "serving": "470 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb160",
+    "name_ru": "Бургер говяжий с моцареллой",
+    "name_kk": "Бургер говяжий с моцареллой",
+    "aliases": [
+      "бургер говяжий с моцареллой",
+      "бургер с моцареллой"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "350 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb161",
+    "name_ru": "Бургер с говяжьей котлетой",
+    "name_kk": "Бургер с говяжьей котлетой",
+    "aliases": [
+      "бургер с говяжьей котлетой",
+      "бургер",
+      "говяжий бургер",
+      "бургер с говядиной",
+      "сиыр етінен бургер",
+      "сиыр еті бар бургер",
+      "говяжьих бургера",
+      "говяжьих бургеров",
+      "сиыр бургері"
+    ],
+    "price": 3700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "400 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb162",
+    "name_ru": "Бургер с куриной котлетой",
+    "name_kk": "Бургер с куриной котлетой",
+    "aliases": [
+      "бургер с куриной котлетой",
+      "бургер",
+      "куриный бургер",
+      "бургер с курицей",
+      "тауық бургер",
+      "тауық еті бар бургер",
+      "куриных бургера",
+      "куриных бургеров",
+      "куриный бургер",
+      "куриных бургер",
+      "тауық бургері"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "400 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb163",
+    "name_ru": "Бургер-меню с говяжьей котлетой",
+    "name_kk": "Бургер-меню с говяжьей котлетой",
+    "aliases": [
+      "бургер-меню с говяжьей котлетой",
+      "бургер меню с говядиной",
+      "говяжий бургер меню"
+    ],
+    "price": 4300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "510 г",
+    "source_page": 5
+  },
+  {
+    "id": "cb164",
+    "name_ru": "Бургер-меню с куриной котлетой",
+    "name_kk": "Бургер-меню с куриной котлетой",
+    "aliases": [
+      "бургер-меню с куриной котлетой",
+      "бургер меню с курицей",
+      "куриный бургер меню"
+    ],
+    "price": 4050,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "510 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb165",
+    "name_ru": "Клаб-сэндвич с курицей",
+    "name_kk": "Клаб-сэндвич с курицей",
+    "aliases": [
+      "клаб-сэндвич с курицей",
+      "клаб сэндвич",
+      "клаб сендвич",
+      "клаб сэндвич с курицей",
+      "тауық қосылған клаб сэндвич"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "390 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb166",
+    "name_ru": "Сэндвич на гриле с говядиной",
+    "name_kk": "Сэндвич на гриле с говядиной",
+    "aliases": [
+      "сэндвич на гриле с говядиной"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "200 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb167",
+    "name_ru": "Сэндвич на гриле с курицей",
+    "name_kk": "Сэндвич на гриле с курицей",
+    "aliases": [
+      "сэндвич на гриле с курицей",
+      "сэндвич с курицей",
+      "сендвич с курицей"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "250 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb168",
+    "name_ru": "Хот-дог датский",
+    "name_kk": "Хот-дог датский",
+    "aliases": [
+      "хот-дог датский"
+    ],
+    "price": 2500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "290 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb169",
+    "name_ru": "Хот-дог французский",
+    "name_kk": "Хот-дог французский",
+    "aliases": [
+      "хот-дог французский"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "burger",
+    "serving": "180 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb170",
+    "name_ru": "Блины с обжаренной сёмгой",
+    "name_kk": "Блины с обжаренной сёмгой",
+    "aliases": [
+      "блины с обжаренной сёмгой"
+    ],
+    "price": 3650,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "220 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb171",
+    "name_ru": "Картофель фри",
+    "name_kk": "Картофель фри",
+    "aliases": [
+      "картофель фри",
+      "фри",
+      "картошка фри",
+      "картоп фри"
+    ],
+    "price": 1600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "110 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb172",
+    "name_ru": "Кесадилья с курицей",
+    "name_kk": "Кесадилья с курицей",
+    "aliases": [
+      "кесадилья с курицей"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "240 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb173",
+    "name_ru": "Комбо Наггетсы",
+    "name_kk": "Комбо Наггетсы",
+    "aliases": [
+      "комбо наггетсы"
+    ],
+    "price": 4400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "410 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb174",
+    "name_ru": "Мини чебуречки",
+    "name_kk": "Мини чебуречки",
+    "aliases": [
+      "мини чебуречки"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "150 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb175",
+    "name_ru": "Наггетсы",
+    "name_kk": "Наггетсы",
+    "aliases": [
+      "наггетсы",
+      "нагетсы"
+    ],
+    "price": 2000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "125 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb176",
+    "name_ru": "Сырные палочки",
+    "name_kk": "Сырные палочки",
+    "aliases": [
+      "сырные палочки"
+    ],
+    "price": 3700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "170 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb177",
+    "name_ru": "Чесночные гренки",
+    "name_kk": "Чесночные гренки",
+    "aliases": [
+      "чесночные гренки"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "130 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb178",
+    "name_ru": "Чикен фри",
+    "name_kk": "Чикен фри",
+    "aliases": [
+      "чикен фри"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "380 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb179",
+    "name_ru": "Шаверма с куриным филе, йогуртовым соусом",
+    "name_kk": "Шаверма с куриным филе, йогуртовым соусом",
+    "aliases": [
+      "шаверма с куриным филе, йогуртовым соусом"
+    ],
+    "price": 2900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "snack",
+    "serving": "300 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb180",
+    "name_ru": "Битые огурцы",
+    "name_kk": "Битые огурцы",
+    "aliases": [
+      "битые огурцы"
+    ],
+    "price": 1900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "160 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb181",
+    "name_ru": "Китайская лапша с чёрными бобами",
+    "name_kk": "Китайская лапша с чёрными бобами",
+    "aliases": [
+      "китайская лапша с чёрными бобами"
+    ],
+    "price": 4400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "350 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb182",
+    "name_ru": "Креветки Динамит",
+    "name_kk": "Креветки Динамит",
+    "aliases": [
+      "креветки динамит"
+    ],
+    "price": 3700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "130 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb183",
+    "name_ru": "Креветки в соусе Динамит с рисом и овощами",
+    "name_kk": "Креветки в соусе Динамит с рисом и овощами",
+    "aliases": [
+      "креветки в соусе динамит с рисом и овощами"
+    ],
+    "price": 4300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "450 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb184",
+    "name_ru": "Курица в соусе Динамит с рисом и овощами",
+    "name_kk": "Курица в соусе Динамит с рисом и овощами",
+    "aliases": [
+      "курица в соусе динамит с рисом и овощами"
+    ],
+    "price": 3950,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "450 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb185",
+    "name_ru": "Курица по-тайски",
+    "name_kk": "Курица по-тайски",
+    "aliases": [
+      "курица по-тайски"
+    ],
+    "price": 3700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "400 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb186",
+    "name_ru": "Пибимпаб",
+    "name_kk": "Пибимпаб",
+    "aliases": [
+      "пибимпаб"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "350 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb187",
+    "name_ru": "Рамён с говядиной",
+    "name_kk": "Рамён с говядиной",
+    "aliases": [
+      "рамён с говядиной"
+    ],
+    "price": 2800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "500 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb188",
+    "name_ru": "Рамён с пельменями",
+    "name_kk": "Рамён с пельменями",
+    "aliases": [
+      "рамён с пельменями"
+    ],
+    "price": 2800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "500 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb189",
+    "name_ru": "Рис Сукияки с фланком",
+    "name_kk": "Рис Сукияки с фланком",
+    "aliases": [
+      "рис сукияки с фланком"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "300 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb190",
+    "name_ru": "Рис с говядиной в японском стиле",
+    "name_kk": "Рис с говядиной в японском стиле",
+    "aliases": [
+      "рис с говядиной в японском стиле"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "350 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb191",
+    "name_ru": "Рис с куриным филе в японском стиле",
+    "name_kk": "Рис с куриным филе в японском стиле",
+    "aliases": [
+      "рис с куриным филе в японском стиле"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "350 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb192",
+    "name_ru": "Суп Том Ям",
+    "name_kk": "Суп Том Ям",
+    "aliases": [
+      "суп том ям",
+      "том ям",
+      "том-ям",
+      "томям",
+      "том яма",
+      "том ямов"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "350 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb193",
+    "name_ru": "Удон с говядиной",
+    "name_kk": "Удон с говядиной",
+    "aliases": [
+      "удон с говядиной"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "250 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb194",
+    "name_ru": "Удон с курицей",
+    "name_kk": "Удон с курицей",
+    "aliases": [
+      "удон с курицей"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "250 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb195",
+    "name_ru": "Чикен Масала",
+    "name_kk": "Чикен Масала",
+    "aliases": [
+      "чикен масала"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "380 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb196",
+    "name_ru": "Чикен том ям",
+    "name_kk": "Чикен том ям",
+    "aliases": [
+      "чикен том ям"
+    ],
+    "price": 3400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "330 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb197",
+    "name_ru": "Чука с ореховым соусом",
+    "name_kk": "Чука с ореховым соусом",
+    "aliases": [
+      "чука с ореховым соусом"
+    ],
+    "price": 1900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "asia",
+    "serving": "150 г",
+    "source_page": 6
+  },
+  {
+    "id": "cb198",
+    "name_ru": "Жареный ролл с лососем",
+    "name_kk": "Жареный ролл с лососем",
+    "aliases": [
+      "жареный ролл с лососем"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "200 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb199",
+    "name_ru": "Жареный ролл с лососем и тунцом",
+    "name_kk": "Жареный ролл с лососем и тунцом",
+    "aliases": [
+      "жареный ролл с лососем и тунцом"
+    ],
+    "price": 3200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "180 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb200",
+    "name_ru": "Жареный ролл с угрём",
+    "name_kk": "Жареный ролл с угрём",
+    "aliases": [
+      "жареный ролл с угрём"
+    ],
+    "price": 3100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "200 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb201",
+    "name_ru": "Калифорния",
+    "name_kk": "Калифорния",
+    "aliases": [
+      "калифорния"
+    ],
+    "price": 4100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "180 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb202",
+    "name_ru": "Ролл Тунец-трюфель",
+    "name_kk": "Ролл Тунец-трюфель",
+    "aliases": [
+      "ролл тунец-трюфель"
+    ],
+    "price": 3700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "190 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb203",
+    "name_ru": "Ролл Юдзу",
+    "name_kk": "Ролл Юдзу",
+    "aliases": [
+      "ролл юдзу"
+    ],
+    "price": 5900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "240 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb204",
+    "name_ru": "Ролл лосось-трюфель",
+    "name_kk": "Ролл лосось-трюфель",
+    "aliases": [
+      "ролл лосось-трюфель"
+    ],
+    "price": 5400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "260 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb205",
+    "name_ru": "Ролл с лососем с перечным соусом",
+    "name_kk": "Ролл с лососем с перечным соусом",
+    "aliases": [
+      "ролл с лососем с перечным соусом"
+    ],
+    "price": 6000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "270 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb206",
+    "name_ru": "Ролл с обожжённым сахаром",
+    "name_kk": "Ролл с обожжённым сахаром",
+    "aliases": [
+      "ролл с обожжённым сахаром"
+    ],
+    "price": 3900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "240 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb207",
+    "name_ru": "Ролл с угрём",
+    "name_kk": "Ролл с угрём",
+    "aliases": [
+      "ролл с угрём"
+    ],
+    "price": 3900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "220 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb208",
+    "name_ru": "Филадельфия",
+    "name_kk": "Филадельфия",
+    "aliases": [
+      "филадельфия",
+      "филаделфия"
+    ],
+    "price": 4600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sushi",
+    "serving": "220 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb209",
+    "name_ru": "Оджахури",
+    "name_kk": "Оджахури",
+    "aliases": [
+      "оджахури"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "georgia",
+    "serving": "350 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb210",
+    "name_ru": "Салат по-грузински с орехами",
+    "name_kk": "Салат по-грузински с орехами",
+    "aliases": [
+      "салат по-грузински с орехами"
+    ],
+    "price": 2100,
+    "sizes": [],
+    "modifiers": {},
+    "category": "georgia",
+    "serving": "300 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb211",
+    "name_ru": "Харчо",
+    "name_kk": "Харчо",
+    "aliases": [
+      "харчо"
+    ],
+    "price": 2800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "georgia",
+    "serving": "350 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb212",
+    "name_ru": "Хачапури по-аджарски",
+    "name_kk": "Хачапури по-аджарски",
+    "aliases": [
+      "хачапури по-аджарски",
+      "хачапури по аджарски",
+      "аджарский хачапури"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "georgia",
+    "serving": "520 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb213",
+    "name_ru": "Хачапури по-имеретински",
+    "name_kk": "Хачапури по-имеретински",
+    "aliases": [
+      "хачапури по-имеретински",
+      "хачапури по имеретински"
+    ],
+    "price": 3500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "georgia",
+    "serving": "500 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb214",
+    "name_ru": "Бауырсаки с каймаком",
+    "name_kk": "Бауырсаки с каймаком",
+    "aliases": [
+      "бауырсаки с каймаком",
+      "бауырсақ",
+      "бауырсак",
+      "баурсаки",
+      "бауырсаки",
+      "бауырсақ қаймақпен",
+      "қаймақ қосылған бауырсақ"
+    ],
+    "price": 1300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "national",
+    "serving": "150 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb215",
+    "name_ru": "Цезарь с кониной и мини баурсаками",
+    "name_kk": "Цезарь с кониной и мини баурсаками",
+    "aliases": [
+      "цезарь с кониной и мини баурсаками"
+    ],
+    "price": 4200,
+    "sizes": [],
+    "modifiers": {},
+    "category": "national",
+    "serving": "300 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb216",
+    "name_ru": "Шурпа",
+    "name_kk": "Шурпа",
+    "aliases": [
+      "шурпа",
+      "сорпа"
+    ],
+    "price": 3000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "national",
+    "serving": "450 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb217",
+    "name_ru": "Гречка",
+    "name_kk": "Гречка",
+    "aliases": [
+      "гречка"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "150 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb218",
+    "name_ru": "Гречка с овощами",
+    "name_kk": "Гречка с овощами",
+    "aliases": [
+      "гречка с овощами"
+    ],
+    "price": 900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "220 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb219",
+    "name_ru": "Картофель по-деревенски",
+    "name_kk": "Картофель по-деревенски",
+    "aliases": [
+      "картофель по-деревенски"
+    ],
+    "price": 900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "120 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb220",
+    "name_ru": "Картофель по-домашнему",
+    "name_kk": "Картофель по-домашнему",
+    "aliases": [
+      "картофель по-домашнему"
+    ],
+    "price": 1000,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "250 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb221",
+    "name_ru": "Картофельное пюре",
+    "name_kk": "Картофельное пюре",
+    "aliases": [
+      "картофельное пюре"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "150 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb222",
+    "name_ru": "Овощи гриль",
+    "name_kk": "Овощи гриль",
+    "aliases": [
+      "овощи гриль"
+    ],
+    "price": 1700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "220 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb223",
+    "name_ru": "Рис",
+    "name_kk": "Рис",
+    "aliases": [
+      "рис"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "150 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb224",
+    "name_ru": "Рис с овощами",
+    "name_kk": "Рис с овощами",
+    "aliases": [
+      "рис с овощами"
+    ],
+    "price": 900,
+    "sizes": [],
+    "modifiers": {},
+    "category": "side",
+    "serving": "200 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb225",
+    "name_ru": "Хлеб злаковый",
+    "name_kk": "Хлеб злаковый",
+    "aliases": [
+      "хлеб злаковый"
+    ],
+    "price": 500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "100 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb226",
+    "name_ru": "Хлеб злаковый чесночный",
+    "name_kk": "Хлеб злаковый чесночный",
+    "aliases": [
+      "хлеб злаковый чесночный"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "100 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb227",
+    "name_ru": "Хлеб с моцареллой",
+    "name_kk": "Хлеб с моцареллой",
+    "aliases": [
+      "хлеб с моцареллой"
+    ],
+    "price": 700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "130 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb228",
+    "name_ru": "Хлеб тостерный",
+    "name_kk": "Хлеб тостерный",
+    "aliases": [
+      "хлеб тостерный"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "60 г",
+    "source_page": 7
+  },
+  {
+    "id": "cb229",
+    "name_ru": "Хлеб чёрный",
+    "name_kk": "Хлеб чёрный",
+    "aliases": [
+      "хлеб чёрный"
+    ],
+    "price": 500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "100 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb230",
+    "name_ru": "Хлеб чесночный чёрный",
+    "name_kk": "Хлеб чесночный чёрный",
+    "aliases": [
+      "хлеб чесночный чёрный"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "100 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb231",
+    "name_ru": "Хлебное ассорти (злаковый и чёрный)",
+    "name_kk": "Хлебное ассорти (злаковый и чёрный)",
+    "aliases": [
+      "хлебное ассорти (злаковый и чёрный)",
+      "хлебное ассорти"
+    ],
+    "price": 600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "bread",
+    "serving": "100 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb232",
+    "name_ru": "Кетчуп",
+    "name_kk": "Кетчуп",
+    "aliases": [
+      "кетчуп"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb233",
+    "name_ru": "Майонез",
+    "name_kk": "Майонез",
+    "aliases": [
+      "майонез"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb234",
+    "name_ru": "Соус Айвар",
+    "name_kk": "Соус Айвар",
+    "aliases": [
+      "соус айвар"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb235",
+    "name_ru": "Соус Айоли",
+    "name_kk": "Соус Айоли",
+    "aliases": [
+      "соус айоли"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "50 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb236",
+    "name_ru": "Соус карри",
+    "name_kk": "Соус карри",
+    "aliases": [
+      "соус карри"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb237",
+    "name_ru": "Соус коктейльный",
+    "name_kk": "Соус коктейльный",
+    "aliases": [
+      "соус коктейльный"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb238",
+    "name_ru": "Соус сладкий чили",
+    "name_kk": "Соус сладкий чили",
+    "aliases": [
+      "соус сладкий чили"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb239",
+    "name_ru": "Соус сырный",
+    "name_kk": "Соус сырный",
+    "aliases": [
+      "соус сырный",
+      "сырный соус",
+      "ірімшік тұздығы"
+    ],
+    "price": 300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "sauce",
+    "serving": "30 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb240",
+    "name_ru": "Kids Box с наггетсами (3 шт, фри, сок Piko, игрушка)",
+    "name_kk": "Kids Box с наггетсами (3 шт, фри, сок Piko, игрушка)",
+    "aliases": [
+      "kids box с наггетсами (3 шт, фри, сок piko, игрушка)",
+      "kids box с наггетсами"
+    ],
+    "price": 3300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "220 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb241",
+    "name_ru": "Kids Box с куриным гамбургером (фри, сок Piko, игрушка)",
+    "name_kk": "Kids Box с куриным гамбургером (фри, сок Piko, игрушка)",
+    "aliases": [
+      "kids box с куриным гамбургером (фри, сок piko, игрушка)",
+      "kids box с куриным гамбургером"
+    ],
+    "price": 3600,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "270 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb242",
+    "name_ru": "Вареники с картофелем",
+    "name_kk": "Вареники с картофелем",
+    "aliases": [
+      "вареники с картофелем"
+    ],
+    "price": 1500,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "160 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb243",
+    "name_ru": "Пельмени цветные",
+    "name_kk": "Пельмени цветные",
+    "aliases": [
+      "пельмени цветные"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "160 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb244",
+    "name_ru": "Пельмени цветные с бульоном",
+    "name_kk": "Пельмени цветные с бульоном",
+    "aliases": [
+      "пельмени цветные с бульоном"
+    ],
+    "price": 2300,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "250 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb245",
+    "name_ru": "Пицца детская",
+    "name_kk": "Пицца детская",
+    "aliases": [
+      "пицца детская"
+    ],
+    "price": 1800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "230 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb246",
+    "name_ru": "Суп с фрикадельками",
+    "name_kk": "Суп с фрикадельками",
+    "aliases": [
+      "суп с фрикадельками"
+    ],
+    "price": 1400,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "300 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb247",
+    "name_ru": "Сырники без изюма",
+    "name_kk": "Сырники без изюма",
+    "aliases": [
+      "сырники без изюма",
+      "сырники",
+      "детские сырники"
+    ],
+    "price": 1700,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "100 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb248",
+    "name_ru": "Шарики из индейки",
+    "name_kk": "Шарики из индейки",
+    "aliases": [
+      "шарики из индейки"
+    ],
+    "price": 1800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "220 г",
+    "source_page": 8
+  },
+  {
+    "id": "cb249",
+    "name_ru": "Эскимо из курицы",
+    "name_kk": "Эскимо из курицы",
+    "aliases": [
+      "эскимо из курицы"
+    ],
+    "price": 1800,
+    "sizes": [],
+    "modifiers": {},
+    "category": "kids",
+    "serving": "230 г",
+    "source_page": 8
+  }
+]
